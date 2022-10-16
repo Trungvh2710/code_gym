@@ -1,6 +1,6 @@
 import turtle
 cnt = 1
-while (cnt < 6):
+while (cnt <=5):
     turtle.forward(50)
     turtle.right(144)
     cnt = cnt + 1
